@@ -40,7 +40,7 @@ based Direct Directory) as well.
 iv) allowing many developers to prototype with the same data will give 
 Monthly Meetings more ideas about how they might modernize, as well as 
 NPYM (North Pacific Yearly Meeting) should the latter ever wish to escape 
-from the Dark Ages (the age of secretive "black box meetings" which cater 
+from the Dark Ages (the age of secretive "black box meetings" which pander 
 to the paranoid, at the cost of making our practices less open, less 
 transparent, less viable in the longer term).
 
